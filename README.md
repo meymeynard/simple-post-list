@@ -1,2 +1,3 @@
 # simple-post-list
-Created with CodeSandbox
+
+Basic demonstration of fetch and useState React hook
