@@ -1,11 +1,10 @@
 {
-  "name": "matt-goral",
-  "version": "1.0.0",
-  "description": "",
+  "name": "simple-post-list",
+  "version": "1.0.1",
+  "description": "Simple List of Posts using React",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "isomorphic-fetch": "3.0.0",
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-scripts": "2.0.3"
